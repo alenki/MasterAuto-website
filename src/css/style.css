@@ -72,6 +72,10 @@
     border-radius: 2px;
 }
 
+/* Topbar */
+.topbar_number{
+    color: rgb(89, 98, 119);
+}
 
 /*** Navbar ***/
 .navbar .dropdown-toggle::after {
