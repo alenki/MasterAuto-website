@@ -12,11 +12,8 @@ export default defineConfig({
         main: 'index.html',
         about: 'about/index.html',
         contact: 'contact/index.html',
-        booking: 'booking/index.html',
         error: 'error/index.html',
-        service: 'service/index.html',
-        team: 'team/index.html',
-        testimonial: 'testimonial/index.html'
+        service: 'service/index.html'
       },
     },
   },
