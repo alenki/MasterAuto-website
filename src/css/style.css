@@ -323,9 +323,9 @@
 }
 
 .footer .btn.btn-social {
-    margin-right: 5px;
-    width: 35px;
-    height: 35px;
+    margin-right: 15px;
+    width: 43px;
+    height: 43px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -333,6 +333,19 @@
     border: 1px solid #FFFFFF;
     border-radius: 35px;
     transition: .3s;
+}
+
+.fab_footer{
+    font-size: 1.3rem;
+}
+.fa_footer{
+    color: #F2F2F2;
+}
+.footer_text{
+    font-size: 1.15rem;
+}
+.corit_tag{
+    color: #F2F2F2;
 }
 
 .footer .btn.btn-social:hover {
