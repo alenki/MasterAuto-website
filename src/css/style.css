@@ -223,6 +223,10 @@
     background-size: cover;
 }
 
+.date {
+    position: relative;
+}
+
 .bootstrap-datetimepicker-widget.bottom {
     top: auto !important;
 }
